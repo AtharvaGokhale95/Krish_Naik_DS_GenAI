@@ -1,0 +1,5 @@
+#!/Users/atharva/Documents/GitHub/Krish_Naik_DS_GenAI/myenv/bin/python3.13
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

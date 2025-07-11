@@ -1,0 +1,5 @@
+#!/Users/atharva/Documents/GitHub/Krish_Naik_DS_GenAI/myenv/bin/python3.13
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

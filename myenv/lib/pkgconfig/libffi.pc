@@ -1,0 +1,11 @@
+prefix=/Users/atharva/Documents/GitHub/Krish_Naik_DS_GenAI/myenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/atharva/Documents/GitHub/Krish_Naik_DS_GenAI/myenv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
