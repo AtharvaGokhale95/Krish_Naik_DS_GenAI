@@ -1,0 +1,8 @@
+README.md
+setup.py
+Krish_Naik_DS_GenAI.egg-info/PKG-INFO
+Krish_Naik_DS_GenAI.egg-info/SOURCES.txt
+Krish_Naik_DS_GenAI.egg-info/dependency_links.txt
+Krish_Naik_DS_GenAI.egg-info/requires.txt
+Krish_Naik_DS_GenAI.egg-info/top_level.txt
+src/__init__.py
