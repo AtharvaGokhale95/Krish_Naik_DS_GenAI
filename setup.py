@@ -30,10 +30,10 @@ def get_requirements()->List[str]:
     return requirement_lst
 
 setup(
-    name="SamplePRoject",
+    name="Krish_Naik_DS_GenAI",
     version="0.0.1",
-    author="Krish Naik",
-    author_email="krishnaik06@gmail.com",
+    author="Atharva Gokhale",
+    author_email="atharvagokhale95@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements()
 )
